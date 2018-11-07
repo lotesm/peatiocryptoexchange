@@ -54,7 +54,7 @@ header {
   box-sizing: border-box;
   bottom-border: 0px;
 
-  p + p { margin-left: 20px !important; }
+  p + p { margin-left: 10px !important; }
   span + span { margin-left: 10px !important; }
 
   span[data-title]:before { content: attr(data-title) ": "; }
